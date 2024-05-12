@@ -1,0 +1,51 @@
+.container{
+    background-color: rgba(129, 119, 119, 0.952);
+    width: 1000px;
+    height: 600px;
+    margin: 0 auto;
+    
+}
+
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+h1{
+    font: size 20px;
+    font-family:monospace;
+    text-align: center;
+}
+
+button {
+    background-color: #156df0; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    
+    
+  }
+
+#yes {
+    position: absolute;
+    left: 500px;
+    top: 500px;
+  }
+#no  {
+    position: absolute;
+    left: 800px;
+    top: 500px}
+
+
+  html
+  {
+      background-color: rgb(87, 83, 83);
+  }
