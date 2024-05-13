@@ -16,7 +16,7 @@ function makeNoButtonAppear() {
 
 
 function appearAfterDelay() {
-    setTimeout(makeNoButtonAppear, Math.random() * 2000);
+    setTimeout(makeNoButtonAppear, Math.random() * 1000);
 
 }
 
